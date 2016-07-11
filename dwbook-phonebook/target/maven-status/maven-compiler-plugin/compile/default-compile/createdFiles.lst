@@ -1,0 +1,9 @@
+com\dwbook\phonebook\App.class
+com\dwbook\phonebook\dao\UserLoginDAO.class
+com\dwbook\phonebook\representations\LoginUser.class
+com\dwbook\phonebook\dao\impl\UserLoginDAOImpl.class
+com\dwbook\phonebook\PhoneGettingStartedApplication.class
+com\dwbook\phonebook\resources\UserResource.class
+com\dwbook\phonebook\App$1.class
+com\dwbook\phonebook\PhonebookConfiguration.class
+com\dwbook\phonebook\entity\UserLoginEntity.class
